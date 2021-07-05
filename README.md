@@ -13,7 +13,7 @@ We have the access to each customer's app behavior data. This data allows us to 
 The app usage data is only from the user's first day in the app. This limitation exists because users can enjoy a 24-hour free trial of the premium features, and the company wants to target them with new offers shortly after the trial is over.
 
 
-## Comclusion
+## Conclusion
 
 Our efforts has given us a model that will label every new user as "highly likely" (or "unlikely") to subscribe. Further we can validate our results by running our predictions on daily new installs, and see whether our accuracy is consistent. From there, we can narrow our marketing efforts only to those users who are "unlikely" to subscribe, and thus increase the subscription rate.
 
