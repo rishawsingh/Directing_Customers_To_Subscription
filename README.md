@@ -1,4 +1,4 @@
-# Directing_Customers_To_Subscription
+# Directing_Customers_To_Subscription Through App Behaviour Analysis
 
 ## Challenge
 
