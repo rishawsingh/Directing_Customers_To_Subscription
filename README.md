@@ -1,5 +1,13 @@
 # Directing_Customers_To_Subscription Through App Behaviour Analysis
 
+# Prequisites
+Libraries used for EDA are:
+- pandas 
+- dateutil 
+- matplotlib.pyplot
+- numpy 
+- seaborn
+
 ## Challenge
 
 In this case study we will be working for a fintech company that wants to provide it's customers with a paid mobile app subscription that will allow them to track all of their finances in one place.
