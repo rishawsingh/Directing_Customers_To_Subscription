@@ -1,12 +1,13 @@
 # Directing_Customers_To_Subscription Through App Behaviour Analysis
 
 # Prequisites
-Libraries used for EDA are:
+Libraries used are:
 - pandas 
 - dateutil 
 - matplotlib.pyplot
 - numpy 
 - seaborn
+- sklearn
 
 ## Challenge
 
